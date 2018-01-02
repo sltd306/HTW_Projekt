@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991548087663",
+    "firebase_url": "https://htwprojekt-85b6d.firebaseio.com",
+    "project_id": "htwprojekt-85b6d",
+    "storage_bucket": "htwprojekt-85b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991548087663:android:4550782f435ec23d",
+        "android_client_info": {
+          "package_name": "com.example.luongtiendat.htw_projekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991548087663-scle5293o61rhera32d30ahmjlqsrv5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luongtiendat.htw_projekt",
+            "certificate_hash": "20d8382e02ba715258b18a88e81f25f1f401dcb1"
+          }
+        },
+        {
+          "client_id": "991548087663-iheu1dc6qg77kvshvcensqt56o69p8g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67FWYNlbDWN3iOXkPM3Xyj_MbwEqcelw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991548087663-iheu1dc6qg77kvshvcensqt56o69p8g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
