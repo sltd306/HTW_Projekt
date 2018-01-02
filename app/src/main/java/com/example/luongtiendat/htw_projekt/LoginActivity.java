@@ -51,7 +51,7 @@ public class LoginActivity extends AppCompatActivity {
 
                 if(!TextUtils.isEmpty(email) || !TextUtils.isEmpty(password)){
                     final ProgressDialog mDialog = new ProgressDialog(LoginActivity.this);
-                    mDialog.setMessage("Pleas waiting ...");
+                    mDialog.setMessage("Pleas waiting abc ...");
                     mDialog.show();
 
                     loginUser(email,password);
